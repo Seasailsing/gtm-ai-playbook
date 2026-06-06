@@ -1,6 +1,6 @@
-# Marketing & AI Playbook — Rahma Assante
+# Marketing & AI Playbook - Seasailsing 
 
-**B2B Marketer & Brand Strategist | 15 years across APAC & EMEA | Ex-TikTok, InMobi, NIQ | Enterprise GTM, insights & brand**
+**B2B Marketer & Brand Strategist | 16 years across APAC & EMEA | Ex-TikTok, InMobi, NIQ | Enterprise GTM, insights & brand**
 
 This is a working document of the AI tools, prompts, and frameworks I use day-to-day as a B2B marketer — to run sharper campaigns, generate faster insights, and drive GTM execution across complex, multi-market environments.
 
@@ -8,7 +8,7 @@ This is a working document of the AI tools, prompts, and frameworks I use day-to
 
 ## About Me
 
-I'm a B2B marketing and brand leader based in Singapore, with 15 years of experience across APAC and EMEA in tech, media, and platform businesses. Most recently Head of Marketing & Consumer Insights at TikTok APAC (10 markets), and currently Global Marketing Director at Intelcia, owning full B2B marketing operations across Europe and the US.
+I'm a B2B marketing and brand leader based in Singapore, with 16 years of experience across APAC and EMEA in tech, media, and platform businesses. Most recently Head of Marketing & Consumer Insights at TikTok APAC (10 markets), and currently Global Marketing Director at Intelcia, owning full B2B marketing operations across Europe and the US.
 
 My work spans brand strategy, demand generation, consumer insights, and integrated GTM — always cross-functional, always commercial. I use AI not as a novelty, but as a practical layer that makes marketing work faster and sharper.
 
@@ -16,7 +16,7 @@ Based in Singapore
 Currently: Intelcia (Global Marketing Director)
 Prev: TikTok APAC, InMobi, NIQ-GfK
 MBA, EDHEC Business School (French Top 5)
-LinkedIn: https://www.linkedin.com/in/rahmaassante
+LinkedIn: https://www.linkedin.com/in/rbba
 
 ---
 
